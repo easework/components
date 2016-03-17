@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "module": "commonjs",
+        "target": "es6",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "sourceMap": true,
+        "declaration": true
+    },
+    "files": [
+        "ng2-user.ts"
+    ],
+    "exclude": [
+        "node_modules",
+        "bower_components"
+    ]
+}
