@@ -7,10 +7,12 @@
         "experimentalDecorators": true,
         "sourceMap": true,
         "declaration": true,
-	"outFile":"bundle.js"
+	"outFile":"lib/bundle.js",
+	"outDir":"../lib",
+	"sourceRoot":"/"
     },
     "files": [
-        "ng2-user.ts"
+        "module.ts"
     ],
     "exclude": [
         "node_modules",

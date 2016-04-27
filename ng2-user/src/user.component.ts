@@ -1,9 +1,9 @@
-//import {Component} from 'angular2/core';
+import {Component} from 'angular2/core';
 
-/*@Component({
+@Component({
 	selector: 'user-crt',
 	templateUrl: './user.view.html'
-})*/
+})
 export class UserComponent {
 	
 }

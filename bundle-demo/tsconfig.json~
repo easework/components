@@ -6,11 +6,10 @@
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
         "sourceMap": true,
-        "declaration": true,
-	"outFile":"bundle.js"
+        "declaration": true
     },
     "files": [
-        "ng2-user.ts"
+        "module.ts"
     ],
     "exclude": [
         "node_modules",
